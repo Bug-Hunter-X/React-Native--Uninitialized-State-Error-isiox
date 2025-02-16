@@ -1,0 +1,1 @@
+This error occurs when you try to access a state variable before it has been initialized. This is often because the component renders before the state has had a chance to update.
